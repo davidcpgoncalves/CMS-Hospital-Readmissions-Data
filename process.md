@@ -40,7 +40,7 @@ How can we reduce 30-day readmission rates by identifying high-risk conditions a
 - Create a new project and dataset in Big Query
 - Upload both CSVs 
 ### 2.2 Datasets
-
+- Understand metadata from both datasets
 ## 3. Data Analysis
 ### 3.1 Exploring
 

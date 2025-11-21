@@ -27,3 +27,20 @@
 
 ### 1.6 Sub-questions
 
+## 2. Data Requirements and Gathering
+### 2.1 Objectives
+
+### 2.2 Datasets
+
+## 3. Data Analysis
+### 3.1 Exploring
+
+### 3.2 Profiling
+
+### 3.3 Cleaning
+
+### 3.4 Shaping
+
+### 3.5 Analyzing
+
+## 4. Presentation

@@ -37,3 +37,12 @@ Example: *"How can we reduce 30-day readmission rates by identifying high-risk c
 - CSV format for both files
 - Import into SQL (BigQuery)
 - Present findings using Tableau + LOOM video + Slides presenation (Acting as a report)
+
+# Fixing headers
+Both files contain headers with:
+- Special characters
+- Spaces between words
+We'll use Python to fix these headers and save them as a new "fixed-file" that can be uploaded to BigQuery.
+New headers will have:
+- "-" Separating words
+- No special characters

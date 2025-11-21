@@ -1,0 +1,9 @@
+Project Ideas:
+- 30-day readmission rate benchmarking
+- Condition-specific readmission patterns
+- Facility performance ranking
+- Peer group comparison
+
+Tools used:
+- SQL
+- Tableau

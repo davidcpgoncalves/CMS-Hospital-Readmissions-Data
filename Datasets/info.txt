@@ -1,0 +1,6 @@
+Dataset source:
+
+Hospital-readmission-reduction-program dataset
+- https://data.cms.gov/provider-data/dataset/9n3s-kdb3
+Hospital-general-information
+- https://data.cms.gov/provider-data/dataset/xubh-q36u

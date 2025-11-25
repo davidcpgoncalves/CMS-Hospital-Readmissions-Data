@@ -1,7 +1,7 @@
 # Hospital General Information
 ## **Fields and explanation**
-**Safety Group Measure Count**
-Count of measures included in the *Safety of Care measure group*
+**Safety Group Measure Count**<br>
+Count of measures included in the *Safety of Care measure group*<br>
 **Count of Facility Safety Measures**
 
 Count of Safety Measures Better

@@ -1,2 +1,78 @@
 # Hospital General Information
-**Source:**
+## **Fields and explanation**
+**Safety Group Measure Count**
+Count of measures included in the *Safety of Care measure group*
+**Count of Facility Safety Measures**
+
+Count of Safety Measures Better
+
+Count of Safety Measures No Different
+
+Count of Safety Measures Worse
+
+Safety Group Footnote
+
+READM Group Measure Count
+
+Count of Facility READM Measures
+
+Count of READM Measures Better
+
+Count of READM Measures No Different
+
+Count of READM Measures Worse
+
+READM Group Footnote
+
+Pt Exp Group Measure Count
+
+Count of Facility Pt Exp Measures
+
+Pt Exp Group Footnote
+
+TE Group Measure Count
+
+Count of Facility TE Measures
+
+TE Group Footnote
+
+Facility ID
+
+Facility Name
+
+Address
+
+City/Town
+
+State
+
+ZIP Code
+
+County/Parish
+
+Telephone Number
+
+Hospital Type
+
+Hospital Ownership
+
+Emergency Services
+
+Meets criteria for birthing friendly designation
+
+Hospital overall rating
+
+Hospital overall rating footnote
+
+MORT Group Measure Count
+
+Count of Facility MORT Measures
+
+Count of MORT Measures Better
+
+Count of MORT Measures No Different
+
+Count of MORT Measures Worse
+
+MORT Group Footnote
+

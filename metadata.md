@@ -91,26 +91,65 @@ Boolean value that represents whether a facility has emergency services<br><br>
 This hospital meets criteria for being designated as a birthing friendly hospital<br><br>
 
 **Hospital overall rating**<br>
- The Overall Star Rating summarizes measures publicly reported on Care Compare into a single rating. The measures come from the IQR, OQR, and other programs and encompass measures in five measure groups: mortality, safety of care, readmission, patient experience, timely & effective care. 
+The Overall Star Rating summarizes measures publicly reported on Care Compare into a single rating. The measures come from the IQR, OQR, and other programs and encompass measures in five measure groups: mortality, safety of care, readmission, patient experience, timely & effective care. 
 Hospitals can receive between one and five stars, with five stars being the highest rating, and the more stars, the better the hospital performs on the quality measures.<br><br>
 
 **Hospital overall rating footnote**<br>
-Number of Safety of care measures that are better than the national value<br><br>
+Explanatory notes about the hospital's overall rating<br><br>
 
 **MORT Group Measure Count**<br>
-Number of Safety of care measures that are better than the national value<br><br>
+MORT group measure count Count of measures included in the Mortality measure group<br><br>
 
 **Count of Facility MORT Measures**<br>
-Number of Safety of care measures that are better than the national value<br><br>
+Count of facility MORT measures Number of Mortality measures used in the hospital’s overall star rating<br><br>
 
 **Count of MORT Measures Better**<br>
-Number of Safety of care measures that are better than the national value<br><br>
+Number of mortality measures that are better than the national value<br><br>
 
 **Count of MORT Measures No Different**<br>
-Number of Safety of care measures that are better than the national value<br><br>
+Number of mortality measures that are no different than the national value<br><br>
 
 **Count of MORT Measures Worse**<br>
-Number of Safety of care measures that are better than the national value<br><br>
+Number of mortality measures that are worse than the national value<br><br>
 
 **MORT Group Footnote**<br>
-Number of Safety of care measures that are better than the national value<br><br>
+Explanatory notes about the mortality measures<br><br><br><br>
+
+# Hospital General Information
+## **Fields and explanation**
+
+**Facility Name**<br>
+Name of facility from which we have the record<br><br>
+
+**Facility ID**
+Unique CMS Certification Number (CCN) assigned to a healthcare facility for identification<br><br>
+
+**State**<br>
+The State where the facility is located<br><br>
+
+**Measure Name**<br>
+The name of the measure being assessed<br><br>
+
+**Number of Discharges**<br>
+Count of people discharged from the hospital<br><br>
+
+**Footnote**<br>
+Explanatory notes on discharges<br><br>
+
+**Excess Readmission Ratio**<br>
+Excess readmissions relative to what would be expected for an average hospital treating similar patients, using 36 months of data refreshed annually. A ratio above 1 signals higher-than-expected readmissions,<br><br>
+
+**Predicted Readmission Rate**<br>
+Number of readmissions within 30 days that would be expected for the hospital based on its actual patient case mix and performance<br><br>
+
+**Expected Readmission Rate**<br>
+Number of readmissions that would be anticipated if the hospital performed at the national average level while treating the same patient population (same case mix).<br><br>
+
+**Number of Readmissions**<br>
+Count of unplanned readmissions that occur within 30 days of discharge for that measure<br><br>
+
+**Start Date**<br>
+These dates define the 36-month data collection period used to calculate the readmission measures. The HRRP uses a rolling 36-month window of claims data, refreshed annually<br><br>
+
+**End Date**<br>
+These dates define the 36-month data collection period used to calculate the readmission measures. The HRRP uses a rolling 36-month window of claims data, refreshed annually<br><br>

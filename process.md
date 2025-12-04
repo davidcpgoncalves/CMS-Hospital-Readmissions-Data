@@ -43,7 +43,7 @@ How can we reduce 30-day readmission rates by identifying high-risk conditions a
 - Understand metadata from both datasets (Downloaded the data dictionary, because it worked for both files)
 ## 3. Data Analysis
 ### 3.1 Exploring
-
+- We started by exploring the dataset
 ### 3.2 Profiling
 
 ### 3.3 Cleaning

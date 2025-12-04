@@ -10,15 +10,15 @@ df2 = pd.read_csv("Datasets/original-hospital-readmission-program.csv")
 # Also applied lowercase for better readability
 df.columns = (
     df.columns
-    .str.replace(" ", "-", regex=False)
-    .str.replace("/", "-", regex=False)
+    .str.replace(" ", "_", regex=False)
+    .str.replace("/", "_", regex=False)
     .str.lower()
 )
 
 df2.columns = (
     df2.columns
-    .str.replace(" ", "-", regex=False)
-    .str.replace("/", "-", regex=False)
+    .str.replace(" ", "_", regex=False)
+    .str.replace("/", "_", regex=False)
     .str.lower()
     )
 

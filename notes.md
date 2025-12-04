@@ -46,3 +46,5 @@ We'll use Python to fix these headers and save them as a new "fixed-file" that c
 New headers will have:
 - "-" Separating words
 - No special characters
+
+# Getting the metadata
